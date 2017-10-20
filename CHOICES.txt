@@ -1,7 +1,7 @@
 CHOICES
 
-First Choice: __1__
-Second Choice: __1__
-Third Choice: __2__
-Fourth Choice: __2__
+First Choice: __chose peanutbutter j _
+Second Choice: __got to work helping
+Third Choice: approach helga
+Fourth Choice: __accuse danny __
 Fifth Choice: __accuse billy__
