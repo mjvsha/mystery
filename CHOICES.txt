@@ -1,7 +1,7 @@
 CHOICES
 
-First Choice: ___
-Second Choice: ____
-Third Choice: ____
-Fourth Choice: ____
-Fifth Choice: ____
+First Choice: __1__
+Second Choice: __1__
+Third Choice: __2__
+Fourth Choice: __2__
+Fifth Choice: __accuse billy__
